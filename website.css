@@ -1,0 +1,68 @@
+h1 {
+	color: #00acef;
+}
+		
+.test {
+
+	width: 250px;
+	height: auto;
+	float: left;
+
+}		
+
+body {
+    background-color: #b3d9ff;
+    background-image: url("whitstable.jpg");
+}
+
+
+h2 {
+	color: #d9b3ff;
+}
+
+
+.header {
+
+	min-height: 300px;
+
+	background-size: cover;
+	background-attachment: fixed;
+
+}
+
+#social-media {	
+
+	color: white;
+}
+
+.btn-twitter {
+
+	background-color: #0003ee;
+	border-color: #009ad5;
+
+}
+
+
+.btn-facebook {
+
+	background-color: #4868ac;
+
+	border-color: #314776;
+}
+
+
+.btn-pinterest {
+
+	background-color: #b62f26;
+	border-color: #b62f26;
+
+}
+
+.slider-image {
+
+height: 300px;
+
+
+
+}
+
