@@ -1,0 +1,100 @@
+h1 {
+	color: #FFFFFF;
+	font-family: "Book Antiqua";
+	font-style: italic;
+	font-size: 30px;
+}
+	
+h2{
+	color:#000000;
+	font-family:;"Book Antiqua";
+	font-size:14px;
+}		
+
+body {
+background-color: #000026;
+
+}
+
+
+h2 {
+	color: #000000;
+	font-family:#000000;
+}
+
+
+.header {
+
+	min-height: 300px;
+
+	background-size: cover;
+	background-attachment: fixed;
+
+}
+
+.slider-image {
+
+height: 300px;
+width:100%;
+max-height:100%; 
+max-width:100%;
+
+}
+
+.img {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+.autoResizeImage {
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
+
+.table-cell {
+	height: 50%;
+	width: 30%;
+	align-content: center;
+}
+
+.link-spacing {
+	margin: 14px;
+}
+
+#title{
+	margin: 900px;
+	font-size: 30px;
+
+}
+#nav  {
+	height: 100px;
+	border-color: #000026;
+
+}
+
+.mainImg {
+
+	height:414px;
+}
+#nav-container {
+	background-color:#000026;
+	height: auto;;
+	max-height: 200px;
+}
+#wrapper {
+	padding-top: 100px;
+	padding-bottom:200px;
+	background-color:#000026
+
+}
+
+.shop-images {
+
+	width: 250px;
+	height: auto;
+
+}	
+
+
